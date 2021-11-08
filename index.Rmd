@@ -3,7 +3,7 @@ title: "PY795 Presentation"
 subtitle: "Yes, I did this on RStudio; <br/> Yes, I am sorry"
 author: 
 institute: 
-date: "2016/12/12 (updated: `r Sys.Date()`)"
+date: "Today: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -13,11 +13,7 @@ output:
       countIncrementalSlides: false
 
 ---
-# PY0795 Presentation
-
-Yes, I did this on RStudio; Yes, I am sorry
-
-*Our team members are:*
+# Our team members are:
 
 - Alejandro Anguera
 - Emily Jensen
