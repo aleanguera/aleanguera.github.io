@@ -1,8 +1,12 @@
-PY0975 Presentation
+PY0795 Presentation
 ========================================================
-author: 
-date: 
+---
+title: "PY0795"
+author:
+date:
 autosize: true
+output: ioslides_presentation
+---
 
 Yes, I did this on RStudio; Yes, I am sorry
 ========================================================
@@ -22,7 +26,7 @@ Alejandro Anguera:
 
 Emily Jensen:
 ========================================================
-- Research interests: **
+- Research interests: *Sleep*
 - Interesting fact: **
 - Boring fact: **
 
@@ -50,6 +54,6 @@ The End
 
 I couldn't get a gif to work :(
 
-
+So here you go:
 
 *That's all folks*
