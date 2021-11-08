@@ -3,7 +3,7 @@ title: "PY795 Presentation"
 subtitle: "Yes, I did this on RStudio; <br/> Yes, I am sorry"
 author: 
 institute: 
-date: "Today: `r Sys.Date()`"
+date: "9 Nov 2021"
 output:
   xaringan::moon_reader:
     lib_dir: libs
