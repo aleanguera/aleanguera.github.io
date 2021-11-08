@@ -10,22 +10,7 @@ output: ioslides_presentation
 
 Yes, I did this on RStudio; Yes, I am sorry
 ========================================================
-# In the morning
-
-## Getting up
-
-- Turn off alarm
-- Get out of bed
-
-## Breakfast
-
-- Eat eggs
-- Drink coffee
-
-# In the evening
-
-## Dinner
-
+---
 *Our team members are:*
 
 - Alejandro Anguera
@@ -34,18 +19,21 @@ Yes, I did this on RStudio; Yes, I am sorry
 - Phoebe Penfold
 - Brontë Rapps
 
+---
 Alejandro Anguera:
 ========================================================
 - Research interests: *Evolutionary and Forensic Psychology*
 - Interesting fact: *PhD in the trash*
 - Boring fact: *Toes*
 
+---
 Emily Jensen:
 ========================================================
 - Research interests: *Sleep*
 - Interesting fact: **
 - Boring fact: **
 
+---
 Emily Oliver:
 ========================================================
 - Research interests: *Social LGBTQ+*
