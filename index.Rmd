@@ -55,8 +55,4 @@ output:
 ---
 # The End
 
-I couldn't get a gif to work :(
-
-So here you go:
-
-*That's all folks*
+![That's all folks!](https://media.giphy.com/media/xUPOqo6E1XvWXwlCyQ/giphy.gif)
