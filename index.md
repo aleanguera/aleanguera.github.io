@@ -10,6 +10,22 @@ output: ioslides_presentation
 
 Yes, I did this on RStudio; Yes, I am sorry
 ========================================================
+# In the morning
+
+## Getting up
+
+- Turn off alarm
+- Get out of bed
+
+## Breakfast
+
+- Eat eggs
+- Drink coffee
+
+# In the evening
+
+## Dinner
+
 *Our team members are:*
 
 - Alejandro Anguera
